@@ -227,20 +227,7 @@ python scripts/reproduce_fig3.py
 
 ---
 
-## 🎓 Citation
 
-If you find this work useful for your research, please cite:
-
-```bibtex
-@inproceedings{gonthina2024hideme,
-  title={HideMe: Physically Constrained Attention Guided Laser Attacks on Autonomous Vehicle Perception},
-  author={Gonthina, Sai Sriram and Roy, Sandip and U, Venkanna and Shetty, Sachin},
-  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
-  year={2024}
-}
-```
-
----
 
 ## 👥 Authors
 
